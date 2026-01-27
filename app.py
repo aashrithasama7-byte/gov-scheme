@@ -37,7 +37,6 @@ if query:
         )
         # ------------------------------------------
     else:
-        st.warning(f"No schemes found for '{query}'. Try searching for 'Health' or 'Education'.")import streamlit as st
-import pandas as pd
+        st.warning(f"No schemes found for '{query}'. Try searching for 'Health' or 'Education'.")
 
 
